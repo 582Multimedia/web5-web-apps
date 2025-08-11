@@ -33,3 +33,9 @@ git config --global user.name "Your Name"
 ```bash
 git config --global user.email "12345678@edu.vaniercollege.qc.ca"
 ```
+
+Commit and Publish to github, you will have the choice of public or private repo and push.
+
+**_MAKE SURE THERE IS A COMMIT MESSAGE BEFORE COMMITING EVERY SINGLE TIME_**
+
+Having a message is the most critical part.
