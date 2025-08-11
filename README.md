@@ -2,4 +2,4 @@
 
 Web 5: Web Applications
 
-[Vue Recap](./vue.md)
+:grimacing: [Vue Recap](./vue.md)
