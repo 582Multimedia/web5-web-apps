@@ -28,10 +28,10 @@ Make sure you test things out (and commit) on your sandbox vue project for any o
 
 ### USEFUL LINKS
 
-[Scroll & fancy css demos](https://github.com/ngyvc?tab=repositories)
-[Sandbox](https://sandbox.582multi.media/)
-[Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
-[Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
+- [Scroll & fancy css demos](https://github.com/ngyvc?tab=repositories)
+- [Sandbox](https://sandbox.582multi.media/)
+- [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
+- [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
 
 ### Commands you might need
 
