@@ -33,6 +33,7 @@ Make sure you test things out (and commit) on your sandbox vue project for any o
 - [Scroll-driven Animations and Examples](https://scroll-driven-animations.style/)
 - [Tools](https://scroll-driven-animations.style/#tools)
 - [Animate elements on scroll with Scroll-driven animations](https://developer.chrome.com/docs/css-ui/scroll-driven-animations)
+- [CSS Scroll-triggered Animations with Style Queries](https://ryanmulligan.dev/blog/scroll-triggered-animations-style-queries/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations)
 
 #### Scroll - bonus links
