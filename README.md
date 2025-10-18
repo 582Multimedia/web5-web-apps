@@ -1,5 +1,38 @@
 # Web 5: Web Applications
 
+## UPDATES
+
+**READ EVERYTHING SLOWLY, ALL THE INFO IS HERE**
+
+So everyone should be starting **BOTH** of your sites on vue now. Your task is basically to transcribe the basic HTML structure from your figma planning.
+
+Use images from your work or clients if you have them (please resize to max size you intend to use)
+
+> [!TIP]
+> If you are missing images, placeholder images from https://placehold.co/ or other online services are acceptable, but not ideeal.
+
+Make sure you test things out (and commit) on your sandbox vue project for any of the techniques I’ve shown in class or if you want to remind yourself how to do some of the vue components and setup.
+
+> [!IMPORTANT]
+> I want clean small commits for everything you do for your portfolio and your client vue projects.
+
+### What you should have in your vue projects
+
+- import main.css (or name it appropriately for your client) into the main.js
+- this css file should at the minimum have css reset and you can also set up the css variables I showed in class so you can use your main colors everywhere and change it later
+- set up views in a view folder (using your html structure)
+- set up routes that uses those views
+- adjust your code if you need to use any scrolling features I showed in class.
+- no need to connect to wordpress for now, you can hardcode some sample details into the views so we can see it's functional and if any tags needs to be change before we start pulling data from wordpress.
+- components at this stage are not entirely necessary yet, we can split your code into components later, but if some of you want to do it right away, you can.
+
+### USEFUL LINKS
+
+[Scroll & fancy css demos](https://github.com/ngyvc?tab=repositories)
+[Sandbox](https://sandbox.582multi.media/)
+[Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
+[Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
+
 ## Course Plan
 
 | Week | Dates | Due (portfolio) | Due (client) | Plan |
