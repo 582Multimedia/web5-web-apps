@@ -26,7 +26,23 @@ Make sure you test things out (and commit) on your sandbox vue project for any o
 
 ### USEFUL LINKS
 
-- [Scroll & fancy css demos](https://github.com/ngyvc?tab=repositories)
+
+#### Scroll driven animation
+
+- [Scroll & fancy css class demo](https://github.com/ngyvc?tab=repositories)
+- [Scroll-driven Animations and Examples](https://scroll-driven-animations.style/)
+- [Tools](https://scroll-driven-animations.style/#tools)
+- [Animate elements on scroll with Scroll-driven animations](https://developer.chrome.com/docs/css-ui/scroll-driven-animations)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations)
+
+#### Scroll - bonus links
+
+- [CSS Scroll Effects: 50 Interactive Animations to Try](https://prismic.io/blog/css-scroll-effects)
+- [Scroll Driven Animations - Nerdy Notebook](https://nerdy.dev/notebook/scroll-driven-animations.html)
+- [Unleash the Power of Scroll-Driven Animations](https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/)
+
+#### Internal Links
+
 - [Sandbox](https://sandbox.582multi.media/)
 - [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
 - [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
@@ -59,6 +75,12 @@ vue options we need:
 - pinia
 - eslint
 - prettier
+
+### WP API
+
+Accessing an item using the slug name:
+`/wp-json/wp/v2/pages?slug=slug-name`
+**Note:** this will work for other post types than pages also.
 
 ## Course Plan
 
