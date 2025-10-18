@@ -1,6 +1,6 @@
 # Web 5: Web Applications
 
-## UPDATES
+## UPDATES (Oct 18th)
 
 **READ EVERYTHING SLOWLY** ALL THE INFO IS HERE
 
@@ -32,6 +32,35 @@ Make sure you test things out (and commit) on your sandbox vue project for any o
 [Sandbox](https://sandbox.582multi.media/)
 [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
 [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
+
+### Commands you might need
+
+#### windows command fix
+
+```cmd
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+#### git user info setup and pull.rebase
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "12345678@edu.vaniercollege.qc.ca"
+git config --global pull.rebase true
+```
+
+#### vue - create new project
+
+```bash
+npm create vue@latest
+```
+
+vue options we need:
+
+- router
+- pinia
+- eslint
+- prettier
 
 ## Course Plan
 
