@@ -2,9 +2,7 @@
 
 ## UPDATES (Oct 18th)
 
-**READ EVERYTHING SLOWLY** ALL THE INFO IS HERE
-
-So everyone should be starting **BOTH** of your sites on vue now. Your task is basically to transcribe the basic HTML structure from your figma planning.
+Everyone should be starting **BOTH** of your sites on vue now. Your task is basically to transcribe the basic HTML structure from your figma planning.
 
 Use images from your work or clients if you have them (please resize to max size you intend to use)
 
