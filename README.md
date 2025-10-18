@@ -4,10 +4,10 @@
 
 Everyone should be starting **BOTH** of your sites on vue now. Your task is basically to transcribe the basic HTML structure from your figma planning.
 
-Use images from your work or clients if you have them (please resize to max size you intend to use)
+Use images from your work or clients if you have them, please resize to max size you intend to use **(do not upload unresized massive images and fill your space on the server, I will not help you fix that)**.
 
 > [!TIP]
-> If you are missing images, placeholder images from <https://placehold.co/> or other online services are acceptable, but not ideeal.
+> If you are missing images, placeholder images from <https://placehold.co/> or other online services are acceptable, but not ideal.
 
 Make sure you test things out (and commit) on your sandbox vue project for any of the techniques I’ve shown in class or if you want to remind yourself how to do some of the vue components and setup.
 
