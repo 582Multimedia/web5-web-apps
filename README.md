@@ -5,8 +5,8 @@
 ### Web5 Tools
 
 - [Vue API Load](./vue-api-load.md)
-- :grimacing: [Vue Recap](./vue.md)
 - [Sandbox](https://sandbox.582multi.media/)
+- :grimacing: [Vue Recap](./vue.md)
 
 ### Internal Notes
 
@@ -15,7 +15,7 @@
 
 ## UPDATE (Oct 25th)
 
-
+Added new loading code here: [Vue API Load](./vue-api-load.md)
 
 ## UPDATE (Oct 18th)
 
