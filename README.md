@@ -1,6 +1,23 @@
 # Web 5: Web Applications
 
-## UPDATES (Oct 18th)
+## Important Links
+
+### Web5 Tools
+
+- [Vue API Load](./vue-api-load.md)
+- :grimacing: [Vue Recap](./vue.md)
+- [Sandbox](https://sandbox.582multi.media/)
+
+### Internal Notes
+
+- [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
+- [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
+
+## UPDATE (Oct 25th)
+
+
+
+## UPDATE (Oct 18th)
 
 Everyone should be starting **BOTH** of your sites on vue now. Your task is basically to transcribe the basic HTML structure from your figma planning.
 
@@ -41,12 +58,6 @@ Make sure you test things out (and commit) on your sandbox vue project for any o
 - [CSS Scroll Effects: 50 Interactive Animations to Try](https://prismic.io/blog/css-scroll-effects)
 - [Scroll Driven Animations - Nerdy Notebook](https://nerdy.dev/notebook/scroll-driven-animations.html)
 - [Unleash the Power of Scroll-Driven Animations](https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/)
-
-#### Internal Links
-
-- [Sandbox](https://sandbox.582multi.media/)
-- [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
-- [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
 
 ### Commands you might need
 
@@ -102,9 +113,6 @@ Accessing an item using the slug name:
 | 13 | Nov 21 / 26 | --- | --- | Plan |
 | 14 | Nov 28 / Dec 3 | --- | Client feedback #3 | Plan |
 | 15 | Dec 5 / 10 | --- | --- | Presentations |
-
-- :grimacing: [Vue Recap](./vue.md)
-- playground
 
 ## Projects
 
