@@ -4,6 +4,7 @@
 
 ### Web5 Tools
 
+- [Vue Advanced Demo](https://github.com/ngyvc/web5-vue-adv-demo)
 - [Vue API Load](./vue-api-load.md)
 - [Sandbox](https://sandbox.582multi.media/)
 - :grimacing: [Vue Recap](./vue.md)
@@ -12,6 +13,11 @@
 
 - [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
 - [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
+
+## UPDATE (Nov 4th)
+
+- [REST API Options](https://developer.wordpress.org/rest-api/reference/posts/#arguments)
+- [ACF - WP REST API Integration](https://www.advancedcustomfields.com/resources/wp-rest-api-integration/)
 
 ## UPDATE (Oct 25th)
 
