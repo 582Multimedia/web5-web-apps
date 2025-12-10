@@ -14,6 +14,36 @@
 - [Web 5 notes](https://github.com/582Multimedia/web5-web-apps)
 - [Old web4 notes](https://github.com/582Multimedia/web4-db-cms)
 
+## UPDATE (Dec 10th)
+
+### Build your project
+
+> [!WARNING]
+> Only build your project when everything is completed and ready to be built and upload on the server.
+
+> [!CAUTION]
+> Do not forget to change your `base` and `build` options inside defineConfig.
+
+Inside `vite.config.js`, make sure you add these options for changing the path and the build output directory inside `defineConfig`.
+
+**Example:**
+
+```js
+export default defineConfig({
+  base: '/web4/example',
+  build: {
+    outDir: '../httpdocs/web4/example',
+    emptyOutDir: true,
+  },
+  plugins: [vue(), vueDevTools()],
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./src', import.meta.url)),
+    },
+  },
+})
+```
+
 ## UPDATE (Nov 4th)
 
 - [REST API Options](https://developer.wordpress.org/rest-api/reference/posts/#arguments)
